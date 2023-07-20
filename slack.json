@@ -1,5 +1,8 @@
 {
   "users": [
+     { "github": "SabinaHMCT",
+        "slack": "U05FM3VMGCC" 
+      },
      {
       "github": "satvinder-hullait",
       "slack": "U02A96X0QV9"
